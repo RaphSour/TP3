@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/LayerStatsWidget">
+        <file>icon.png</file>
+    </qresource>
+</RCC>
