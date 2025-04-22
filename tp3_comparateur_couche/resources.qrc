@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TP3_Comparateur_Couche" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
