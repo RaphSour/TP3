@@ -1,6 +1,6 @@
-# TP3_Comparateur_Couche
+# TP3 Comparateur de couche
 
-Description
+## Description
 
 Ce plugin QGIS permet de comparer deux couches spatiales sélectionnées et d'en extraire :
 
@@ -22,7 +22,7 @@ Option de limitation aux entités visibles dans l'étendue de la vue
 
 Export CSV des métadonnées, de la bounding box (si option activée) et des statistiques
 
-Prérequis
+## Prérequis
 
 QGIS 3.x
 
@@ -30,7 +30,7 @@ Python 3
 
 Aucune dépendance externe supplémentaire (utilise uniquement les bibliothèques QGIS et Python standard)
 
-Installation
+## Installation
 
 Copier le dossier du plugin (TP3_Comparateur_Couche) dans le répertoire des plugins de QGIS :
 
@@ -42,7 +42,7 @@ Redémarrer QGIS.
 
 Activer le plugin dans le gestionnaire d’extensions (Plugins ▶️ Gestionnaire d’extensions).
 
-Utilisation
+## Utilisation
 
 Ouvrir le plugin via la barre d’outils ou le menu "Comparateur de couche".
 
