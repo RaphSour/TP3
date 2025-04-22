@@ -63,3 +63,13 @@ Les coordonnées de la bounding box (si option activée)
 Les métadonnées des deux couches
 
 Les valeurs de statistiques
+
+## Structure du plugin
+
+TP3_Comparateur_Couche        # Dossier principal du plugin
+
+├── TP3_Comparateur_Couche.py   # Fichier principal (init, GUI, contrôleur)
+
+├── TP3_Comparateur_Couche_dockwidget.py  # Classe de la fenêtre dock
+
+├── TP3_Comparateur_Couche_dockwidget_base.ui  # Définition de l’interface Qt
